@@ -9,6 +9,4 @@ for i in range(a):
 
 for i in range(a):
     for j in range(len(test[i])):
-        if test[i][j] == 'O':
-            o_cnt = o_cnt+1
-        elif test[i][j] == 'X'
+       
